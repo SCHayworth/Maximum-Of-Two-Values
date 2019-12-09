@@ -21,9 +21,9 @@
     END
 
 ### max Function
-START
-  PASS IN: first number, second number
-  SET list of numbers to the first and second numbers
-  SET greater number to maximum value in list
-  RETURN greater number
-END
+    START
+      PASS IN: first number, second number
+      SET list of numbers to the first and second numbers
+      SET greater number to maximum value in list
+      RETURN greater number
+    END

@@ -1,4 +1,3 @@
-
 # Maximum of Two Values
 # Shaun Hayworth
 # CIS 2

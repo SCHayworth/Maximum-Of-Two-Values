@@ -22,7 +22,7 @@ def main():
     first_number = float(input('Enter the first number: '))
     second_number = float(input('Enter the second number: '))
     max_value = maximum(first_number, second_number)
-    print('The highest number is: {max_value}')
+    print(f'The highest number is: {max_value}')
 
 
 def  maximum(number_1, number_2):

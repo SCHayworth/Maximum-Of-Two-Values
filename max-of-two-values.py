@@ -16,7 +16,7 @@ def main():
     '''This is the mainline program logic.'''
     print('This program calculates which number is higher.')
 
-    # Prompts the user for two floats and passes them to the max() function
+    # Prompts the user for two floats and passes them to the maximum() function
     # as arguments.
     first_number = float(input('Enter the first number: '))
     second_number = float(input('Enter the second number: '))
